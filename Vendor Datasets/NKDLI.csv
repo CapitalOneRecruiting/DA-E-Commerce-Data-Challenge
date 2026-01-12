@@ -1,0 +1,47 @@
+category_name,category_id,subcategory_name,subcategory_id,vendor,currently_active_vendor,product_num,price,profit_margin,active_product,current_stock
+Sports & Outdoors,pso,Exercise & Fitness,psoex,nkdli,False,9d8a8cae6941,15.93,0.2739232735202144,False,45
+Sports & Outdoors,pso,Exercise & Fitness,psoex,nkdli,False,c5d50dfb29f0,38.52,0.2739232735202144,False,12
+Sports & Outdoors,pso,Exercise & Fitness,psoex,nkdli,False,6a08a35cd6cc,87.7,0.2739232735202144,False,38
+Sports & Outdoors,pso,Exercise & Fitness,psoex,nkdli,False,349ee7b8ea7a,65.91,0.2739232735202144,False,55
+Sports & Outdoors,pso,Exercise & Fitness,psoex,nkdli,False,f0e6d987ab09,73.76,0.2739232735202144,False,79
+Sports & Outdoors,pso,Cycling & Accessories,psocy,nkdli,False,f387fb42291d,39.08,0.3239232735202144,False,77
+Sports & Outdoors,pso,Cycling & Accessories,psocy,nkdli,False,b934abe2d94f,66.85,0.3239232735202144,False,94
+Sports & Outdoors,pso,Cycling & Accessories,psocy,nkdli,False,8ae81e794b71,7.42,0.3239232735202144,False,45
+Sports & Outdoors,pso,Cycling & Accessories,psocy,nkdli,False,31bb2cb8ce81,102.11,0.3239232735202144,False,24
+Sports & Outdoors,pso,Cycling & Accessories,psocy,nkdli,False,4d54fbf46aeb,174.11,0.3239232735202144,False,6
+Sports & Outdoors,pso,Cycling & Accessories,psocy,nkdli,False,7fd0834210dc,219.16,0.3239232735202144,False,26
+Sports & Outdoors,pso,Cycling & Accessories,psocy,nkdli,False,611afceb47ac,85.32,0.3239232735202144,False,49
+Sports & Outdoors,pso,Cycling & Accessories,psocy,nkdli,False,081953309a38,58.25,0.3239232735202144,False,100
+Sports & Outdoors,pso,Camping & Hiking,psoca,nkdli,False,79ebde77957e,122.21,-0.0243880730134661,False,28
+Sports & Outdoors,pso,Camping & Hiking,psoca,nkdli,False,1107cc746fde,38.04,-0.0243880730134661,False,75
+Sports & Outdoors,pso,Camping & Hiking,psoca,nkdli,False,db321bf8fcc7,63.16,-0.0243880730134661,False,10
+Sports & Outdoors,pso,Camping & Hiking,psoca,nkdli,False,715b481566d6,119.35,-0.0243880730134661,False,27
+Sports & Outdoors,pso,Camping & Hiking,psoca,nkdli,False,7f7b4a85d726,187.96,-0.0243880730134661,False,17
+Sports & Outdoors,pso,Camping & Hiking,psoca,nkdli,False,804df0dadbf1,140.72,-0.0243880730134661,False,25
+Sports & Outdoors,pso,Camping & Hiking,psoca,nkdli,False,9f459c420430,97.51,-0.0243880730134661,False,75
+Sports & Outdoors,pso,Climbing,psocl,nkdli,False,756bf4c622b4,95.51,0.3739232735202143,False,95
+Sports & Outdoors,pso,Climbing,psocl,nkdli,False,f84b48615a68,38.42,0.3739232735202143,False,30
+Sports & Outdoors,pso,Climbing,psocl,nkdli,False,e2cfe67b652d,42.13,0.3739232735202143,False,41
+Sports & Outdoors,pso,Climbing,psocl,nkdli,False,9936e1df0ae2,44.51,0.3739232735202143,False,78
+Sports & Outdoors,pso,Climbing,psocl,nkdli,False,a4100800ce9b,111.15,0.3739232735202143,False,14
+Sports & Outdoors,pso,Climbing,psocl,nkdli,False,08fea234e2a9,58.62,0.3739232735202143,False,10
+Sports & Outdoors,pso,Climbing,psocl,nkdli,False,f4d57e7bffaf,73.69,0.3739232735202143,False,97
+Sports & Outdoors,pso,Climbing,psocl,nkdli,False,a6c0c81b847d,79.0,0.3739232735202143,False,11
+Sports & Outdoors,pso,Climbing,psocl,nkdli,False,96144fe960eb,90.31,0.3739232735202143,False,20
+Sports & Outdoors,pso,Cycling & Accessories,psocy,nkdli,False,cb5e6ccc99e0,21.4,0.3239232735202144,False,21
+Sports & Outdoors,pso,Cycling & Accessories,psocy,nkdli,False,005347236f62,22.73,0.3239232735202144,False,32
+Sports & Outdoors,pso,Cycling & Accessories,psocy,nkdli,False,70a0421925c1,22.76,0.3239232735202144,False,17
+Sports & Outdoors,pso,Cycling & Accessories,psocy,nkdli,False,53b897961ebf,81.84,0.3239232735202144,False,39
+Sports & Outdoors,pso,Cycling & Accessories,psocy,nkdli,False,e0f6011d4abb,178.98,0.3239232735202144,False,28
+Sports & Outdoors,pso,Camping & Hiking,psoca,nkdli,False,02d196cb102a,22.59,-0.0243880730134661,False,19
+Sports & Outdoors,pso,Camping & Hiking,psoca,nkdli,False,ec6461cf280f,32.47,-0.0243880730134661,False,81
+Sports & Outdoors,pso,Camping & Hiking,psoca,nkdli,False,05ad56f172b3,55.44,-0.0243880730134661,False,31
+Sports & Outdoors,pso,Camping & Hiking,psoca,nkdli,False,913e2f0c2ef3,109.45,-0.0243880730134661,False,34
+Sports & Outdoors,pso,Climbing,psocl,nkdli,False,5b7dfe385179,20.47,0.3739232735202143,False,14
+Sports & Outdoors,pso,Climbing,psocl,nkdli,False,4929c34f5862,24.51,0.3739232735202143,False,73
+Sports & Outdoors,pso,Climbing,psocl,nkdli,False,27692fb50982,26.84,0.3739232735202143,False,32
+Sports & Outdoors,pso,Climbing,psocl,nkdli,False,1c57e68b9bfa,33.81,0.3739232735202143,False,16
+Sports & Outdoors,pso,Climbing,psocl,nkdli,False,30c9fb700294,57.5,0.3739232735202143,False,19
+Sports & Outdoors,pso,Climbing,psocl,nkdli,False,13f01352404a,59.26,0.3739232735202143,False,39
+Sports & Outdoors,pso,Climbing,psocl,nkdli,False,03fae1def71b,68.38,0.3739232735202143,False,55
+Sports & Outdoors,pso,Climbing,psocl,nkdli,False,52d2f22bb917,79.95,0.3739232735202143,False,67

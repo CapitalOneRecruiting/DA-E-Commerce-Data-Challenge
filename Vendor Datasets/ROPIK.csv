@@ -1,0 +1,96 @@
+category_name,category_id,subcategory_name,subcategory_id,vendor,currently_active_vendor,product_num,price,pct_profit_margin,active_product,current_stock
+Beauty,PBE,Skincare,PBESK,ROPIK,false,1D49A24C01DF,$7.9,76.713100,false,26
+Beauty,PBE,Skincare,PBESK,ROPIK,false,C2B16671E082,14.44,76.713100,true,127
+Beauty,PBE,Skincare,PBESK,ROPIK,false,6B7566317EB7,22.78,76.713100,false,80
+Beauty,PBE,Skincare,PBESK,ROPIK,false,37A3483E3875,$33.1,76.713100,false,38
+Beauty,PBE,Skincare,PBESK,ROPIK,false,D4F6E02F5D94,56.59,76.713100,false,89
+Beauty,PBE,Skincare,PBESK,ROPIK,false,DB1EB8F09C4F,56.96,76.713100,false,43
+Beauty,PBE,Fragrances,PBEFR,ROPIK,false,2E3E6EE8833D,68.55,32.392327,false,35
+Beauty,PBE,Fragrances,PBEFR,ROPIK,false,AECA2FF2836C,$79.68,32.392327,false,62
+Beauty,PBE,Fragrances,PBEFR,ROPIK,false,4C1E3FBBB97A,47.84,32.392327,false,56
+Beauty,PBE,Fragrances,PBEFR,ROPIK,false,7A296320A898,35.12,32.392327,false,60
+Beauty,PBE,Fragrances,PBEFR,ROPIK,false,6B6BF5196A78,37.78,32.392327,false,74
+Beauty,PBE,Fragrances,PBEFR,ROPIK,false,A26176B6E482,$118.16,32.392327,false,43
+Beauty,PBE,Fragrances,PBEFR,ROPIK,false,5C6280653560,78.43,32.392327,false,80
+Beauty,PBE,Fragrances,PBEFR,ROPIK,false,D66B1B855A75,100.0,32.392327,false,97
+Beauty,PBE,Hair care,PBEHA,ROPIK,false,CEB59523CF68,$6.02,20.392327,false,60
+Beauty,PBE,Hair care,PBEHA,ROPIK,false,465CE7C250DD,$36.21,20.392327%,true,64
+Beauty,PBE,Hair care,PBEHA,ROPIK,false,A9AFF17CD18C,10.04,20.392327%,false,33
+Beauty,PBE,Hair care,PBEHA,ROPIK,false,28988E3203A0,20.4,20.392327,false,74
+Beauty,PBE,Hair care,PBEHA,ROPIK,false,2F7F6ACA0C3D,$15.51,20.392327%,false,75
+Beauty,PBE,Hair care,PBEHA,ROPIK,false,B6149B451BBA,14.51,20.392327%,false,184
+Beauty,PBE,Hair care,PBEHA,ROPIK,false,3514CB80DD59,$16.13,20.392327,false,103
+Beauty,PBE,Hair care,PBEHA,ROPIK,false,4D2446E29EFA,16.34,20.392327%,false,21
+Beauty,PBE,Hair care,PBEHA,ROPIK,false,786ABED746B6,20.29,20.392327,false,67
+Beauty,PBE,Hair care,PBEHA,ROPIK,false,51DC940BD533,22.79,20.392327,false,35
+Beauty,PBE,Hair care,PBEHA,ROPIK,false,6964E95D7C82,27.53,20.392327,false,58
+Beauty,PBE,Hair care,PBEHA,ROPIK,false,CCAF517B8ECA,34.05,20.392327,false,65
+Home & Kitchen,PHK,Cookware,PHKCO,ROPIK,false,400A3CC47B6F,19.88,72.713100%,false,136
+Home & Kitchen,PHK,Cookware,PHKCO,ROPIK,false,997C29DB9889,$28.46,72.713100%,true,42
+Home & Kitchen,PHK,Cookware,PHKCO,ROPIK,false,B598928C23FA,300.75,72.713100,true,14
+Home & Kitchen,PHK,Cookware,PHKCO,ROPIK,false,A3C42DDF62CC,$44.52,72.713100%,false,13
+Home & Kitchen,PHK,Cookware,PHKCO,ROPIK,false,C76E6DCD348A,45.19,72.713100%,false,27
+Home & Kitchen,PHK,Cookware,PHKCO,ROPIK,false,2CCD68D80EC5,262.16,72.713100,true,24
+Home & Kitchen,PHK,Cookware,PHKCO,ROPIK,false,CC033199C2E9,51.18,72.713100,false,69
+Home & Kitchen,PHK,Cookware,PHKCO,ROPIK,false,EFD287B0EA78,52.04,72.713100%,true,14
+Home & Kitchen,PHK,Cookware,PHKCO,ROPIK,false,20356CACFFF6,63.68,72.713100,false,65
+Home & Kitchen,PHK,Cookware,PHKCO,ROPIK,false,006C0CD604C4,68.0,72.713100%,false,15
+Home & Kitchen,PHK,Cookware,PHKCO,ROPIK,false,9243870D767B,77.68,72.713100%,false,71
+Home & Kitchen,PHK,Cookware,PHKCO,ROPIK,false,103060F70F4A,98.7,72.713100,false,49
+Home & Kitchen,PHK,Cookware,PHKCO,ROPIK,false,6D9DF0116FBE,122.05,72.713100%,false,13
+Home & Kitchen,PHK,Cookware,PHKCO,ROPIK,false,3885B40E196C,143.05,72.713100,true,8
+Home & Kitchen,PHK,Cookware,PHKCO,ROPIK,false,8608B06B3590,160.54,72.713100,false,35
+Home & Kitchen,PHK,Small Appliances,PHKSM,ROPIK,false,00B8ED23A930,$22.2,24.392327,false,52
+Home & Kitchen,PHK,Small Appliances,PHKSM,ROPIK,false,CC78919EC7B6,109.2,24.392327,true,10
+Home & Kitchen,PHK,Small Appliances,PHKSM,ROPIK,false,64FDA386FC94,$24.02,24.392327,true,60
+Home & Kitchen,PHK,Small Appliances,PHKSM,ROPIK,false,BD649BCA41E6,$97.79,24.392327,true,49
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,232136E028E2,41.43,21.392327,false,15
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,67E57C2B40AF,47.86,21.392327,false,39
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,3D79C6F32C56,77.87,21.392327%,true,56
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,D9E91F24FF0A,49.9,21.392327%,false,85
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,43478DF78B9D,49.99,21.392327,false,43
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,8CFBDCD5F3B4,53.42,21.392327,true,26
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,BEF1735B4487,$54.39,21.392327,false,72
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,B2CA551017FC,55.86,21.392327,false,75
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,1C377E573605,57.73,21.392327,false,57
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,005F5F581797,57.75,21.392327,false,40
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,E54C020B4169,$61.42,21.392327,false,49
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,6D89D2E8363B,62.1,21.392327,false,57
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,E2E4CC86D25F,62.79,21.392327,false,62
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,5634B1174006,$64.92,21.392327,false,31
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,DE3ED3DBAF8B,$65.12,21.392327,false,56
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,A30D7CDC9159,69.65,21.392327,false,32
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,4671C47E97F2,74.25,21.392327%,false,39
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,C9220CC6F7F7,$75.19,21.392327,false,26
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,8479878761C4,$75.33,21.392327%,false,45
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,BBA8C59D4F0F,77.16,21.392327,false,13
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,E80A45AC43D5,$79.82,21.392327,false,95
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,E1619DB0204C,80.27,21.392327,false,67
+Home & Kitchen,PHK,Bedding,PHKBE,ROPIK,false,EE123EFB1DD1,83.83,21.392327,false,60
+Home & Kitchen,PHK,Furniture,PHKFU,ROPIK,false,E0217B16D153,$78.54,21.392327,true,75
+Home & Kitchen,PHK,Furniture,PHKFU,ROPIK,false,54D147021DD3,$97.2,21.392327,true,63
+Home & Kitchen,PHK,Furniture,PHKFU,ROPIK,false,2A8796BF010E,670.41,21.392327%,true,18
+Home & Kitchen,PHK,Furniture,PHKFU,ROPIK,false,BFFD32044D6B,123.98,21.392327%,true,18
+Home & Kitchen,PHK,Furniture,PHKFU,ROPIK,false,0CC2640D4C3E,166.61,21.392327,false,45
+Home & Kitchen,PHK,Furniture,PHKFU,ROPIK,false,E9A77D18D034,178.07,21.392327%,false,44
+Home & Kitchen,PHK,Furniture,PHKFU,ROPIK,false,91A5A4187365,215.64,21.392327,false,44
+Home & Kitchen,PHK,Furniture,PHKFU,ROPIK,false,B64A71AEBD04,464.45,21.392327,true,11
+Home & Kitchen,PHK,Furniture,PHKFU,ROPIK,false,986AAAA6899F,1243.16,21.392327,false,9
+Home & Kitchen,PHK,Home Decor,PHKHO,ROPIK,false,410336DEE02C,34.65,22.392327,true,52
+Home & Kitchen,PHK,Home Decor,PHKHO,ROPIK,false,56095A38B35F,$39.36,22.392327,true,18
+Home & Kitchen,PHK,Home Decor,PHKHO,ROPIK,false,B91280A5E270,$42.43,22.392327,true,100
+Home & Kitchen,PHK,Home Decor,PHKHO,ROPIK,false,8AE4EA8AC3F7,42.71,22.392327,true,88
+Home & Kitchen,PHK,Home Decor,PHKHO,ROPIK,false,604F31A7AE51,50.6,22.392327%,true,51
+Home & Kitchen,PHK,Home Decor,PHKHO,ROPIK,false,7605380B23A1,54.44,22.392327%,false,40
+Home & Kitchen,PHK,Home Decor,PHKHO,ROPIK,false,70D40A46593B,63.47,22.392327,false,29
+Home & Kitchen,PHK,Home Decor,PHKHO,ROPIK,false,4EF90AD35F6B,$64.51,22.392327%,false,37
+Home & Kitchen,PHK,Home Decor,PHKHO,ROPIK,false,FCCE84330402,$65.22,22.392327%,false,41
+Home & Kitchen,PHK,Home Decor,PHKHO,ROPIK,false,01C5290290B0,68.15,22.392327,false,40
+Home & Kitchen,PHK,Home Decor,PHKHO,ROPIK,false,AC763E6B3AF7,71.96,22.392327,false,89
+Home & Kitchen,PHK,Home Decor,PHKHO,ROPIK,false,79ACA0493D02,73.55,22.392327,true,41
+Home & Kitchen,PHK,Home Decor,PHKHO,ROPIK,false,A03D8CAB84D5,133.12,22.392327,true,39
+Home & Kitchen,PHK,Cleaning Supplies,PHKCL,ROPIK,false,4E5EEE0258A1,27.33,5.392327,true,97
+Home & Kitchen,PHK,Cleaning Supplies,PHKCL,ROPIK,false,00F041777A1E,10.69,5.392327%,true,17
+Home & Kitchen,PHK,Cleaning Supplies,PHKCL,ROPIK,false,E2F2BBCF96B3,13.09,5.392327,true,71
+Home & Kitchen,PHK,Cleaning Supplies,PHKCL,ROPIK,false,B9F48C31D377,22.68,5.392327%,true,17
+Home & Kitchen,PHK,Cleaning Supplies,PHKCL,ROPIK,false,82C1CCAD64A2,18.82,5.392327,false,70
